@@ -3,6 +3,9 @@
 ## Project Overview
 The Activity Tracker Chrome Extension helps users manage their web browsing time effectively by tracking and analyzing time spent on various websites, especially focusing on minimizing distractions from non-productive websites.
 
+![alt text](<img width="1159" alt="Screenshot 2024-05-13 at 10 31 59 PM" src="https://github.com/SatvikTaviti/Activity-Tracker/assets/136239592/7a2bfbd3-4974-414c-9ef8-ec31f26727e9">
+ "Optional title")
+
 ## Features
 
 ### Core Features
