@@ -132,7 +132,8 @@
       </div>
     </div>
 
-    <div class="settings-tab">
+    <!--
+     <div class="settings-tab">
       <input
         type="radio"
         id="about-tab"
@@ -151,7 +152,8 @@
           <About v-if="selectedTab == SettingsTab.About" />
         </div>
       </div>
-    </div>
+    </div> 
+    -->
   </div>
 </template>
 
