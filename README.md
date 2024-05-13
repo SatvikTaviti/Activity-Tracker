@@ -24,8 +24,8 @@ This extension aims to enhance productivity by giving users insights into their 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/activity-tracker.git
-cd activity-tracker
+git clone https://github.com/SatvikTaviti/Activity-Tracker
+cd Activity-Tracker
 
 ## Install the dependencies
     pnpm install
